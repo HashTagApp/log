@@ -1,0 +1,7 @@
+github.com/HashTagApp/hashlibry v1.0.4 h1:8o8TBArzbKPtf69Y+sgK1kWYhD0OcYNCpxNVsREyHBA=
+github.com/HashTagApp/hashlibry v1.0.4/go.mod h1:nxqcW5KIiDCz2LpO5+yJQAcBMb/7wJxdaPaFXcSuTe4=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/logrusorgru/aurora v2.0.3+incompatible h1:tOpm7WcpBTn4fjmVfgpQq0EfczGlG91VSDkswnjF5A8=
+github.com/logrusorgru/aurora v2.0.3+incompatible/go.mod h1:7rIyQOR62GCctdiQpZ/zOJlFyk6y+94wXzv6RNZgaR4=

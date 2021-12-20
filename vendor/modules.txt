@@ -1,0 +1,9 @@
+# github.com/HashTagApp/hashlibry v1.0.4
+## explicit; go 1.17
+github.com/HashTagApp/hashlibry
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/logrusorgru/aurora v2.0.3+incompatible
+## explicit
+github.com/logrusorgru/aurora
